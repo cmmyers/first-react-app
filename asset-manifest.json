@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cmmyers/first-react-app/static/css/main.d038b652.chunk.css",
+    "main.js": "/cmmyers/first-react-app/static/js/main.536d49c9.chunk.js",
+    "main.js.map": "/cmmyers/first-react-app/static/js/main.536d49c9.chunk.js.map",
+    "runtime~main.js": "/cmmyers/first-react-app/static/js/runtime~main.6725856e.js",
+    "runtime~main.js.map": "/cmmyers/first-react-app/static/js/runtime~main.6725856e.js.map",
+    "static/js/2.ba7b6f9a.chunk.js": "/cmmyers/first-react-app/static/js/2.ba7b6f9a.chunk.js",
+    "static/js/2.ba7b6f9a.chunk.js.map": "/cmmyers/first-react-app/static/js/2.ba7b6f9a.chunk.js.map",
+    "index.html": "/cmmyers/first-react-app/index.html",
+    "precache-manifest.6c7b1d451713ff6834ca4a979f8412a8.js": "/cmmyers/first-react-app/precache-manifest.6c7b1d451713ff6834ca4a979f8412a8.js",
+    "service-worker.js": "/cmmyers/first-react-app/service-worker.js",
+    "static/css/main.d038b652.chunk.css.map": "/cmmyers/first-react-app/static/css/main.d038b652.chunk.css.map",
+    "static/media/logo.svg": "/cmmyers/first-react-app/static/media/logo.5d5d9eef.svg"
+  }
+}
