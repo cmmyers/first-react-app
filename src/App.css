@@ -1,0 +1,23 @@
+body {
+    background-color: #f0f0f0;
+}
+
+circle {
+    fill: none;
+    stroke: #999999;
+    stroke-width: 3px;
+}
+
+.point {
+  fill: #cc66ff;
+  stroke-width: 0px;
+}
+
+text {
+  font-family: sans-serif;
+  color: #999999;
+}
+
+.red {
+  color: red;
+}
